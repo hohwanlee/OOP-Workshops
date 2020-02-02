@@ -1,6 +1,6 @@
 // OOP244 Workshop 4: Constructors 
 // File: SaiyanMain.cpp
-// Version: 1.0
+// Version: 1.1
 // Date: 1/24/2020
 // Author: Mohammad Shamas
 // Description:
@@ -22,7 +22,7 @@ int main() {
       Saiyan("Nappa", 2025, 1),
       Saiyan("Nappa", 2018, -1),
       Saiyan(nullptr, 2015, 1),
-      Saiyan("", 2018, 5),
+      Saiyan("", 2018, 5)
     };
 
     cout << "Testing Saiyan objects" << endl << endl;
