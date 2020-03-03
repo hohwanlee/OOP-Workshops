@@ -1,5 +1,5 @@
 // OOP244 Workshop 6: Encapsulation
-// File: VehicleTester.cpp
+// File: BasketTester.cpp
 // Version: 1.0
 // Date: 02/28/2020
 // Author: Nargis Khan
