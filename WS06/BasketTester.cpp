@@ -1,6 +1,6 @@
 // OOP244 Workshop 6: Encapsulation
 // File: BasketTester.cpp
-// Version: 1.0
+// Version: 1.1
 // Date: 02/28/2020
 // Author: Nargis Khan
 // Description:
