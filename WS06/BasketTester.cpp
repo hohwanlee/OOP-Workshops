@@ -72,7 +72,7 @@ int main(){
 
 	//checking identical 
     cout << "**** Basket comparing original and copy ****" << endl;
-	if ((b2 == b4)) cout << "Both baskets are carrying the same fruits" << endl;
+	if (b2 == b4) cout << "Both baskets are carrying the same fruits" << endl;
 	else
 		cout << "They are not same type of Baskets" << endl;
 	cout << "---------------------------------------------" << endl;
